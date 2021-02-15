@@ -1,0 +1,173 @@
+
+
+
+#logo{
+
+width: 10vw;
+height: 10vw;
+
+
+
+}
+
+
+#headContainer{
+
+display:flex;
+justify-content: center;
+}
+
+
+#headerText{
+
+    text-align: center;
+    vertical-align: middle;
+}
+
+#title{
+    text-align: center;
+    }
+
+
+    h2{
+text-align: center;
+    }
+
+    #main{
+
+background-color: rgb(15, 15, 71);
+    
+    }
+   #description{
+text-align: center;
+color:white;
+
+    }
+
+
+    #mainForm{
+
+        margin: 0rem 12em;
+        background-color: rgb(75, 115, 247, 0.8);
+
+
+    }
+    
+    #survey-form{
+        color:white
+    }
+
+    #name-label{
+
+    color: white;
+    font-size: 20px;
+    margin: auto 3em;
+    }
+
+    #name{
+
+        color: blue;
+        font-size: 10px;
+        margin: auto 6em;
+        width: 75%;
+        }
+        
+        #gender{
+
+            color: white;
+            font-size: 20px;
+            margin: auto 3em;
+            }
+
+            #aGen{
+                color: white;
+                font-size: 20px; 
+
+            }
+
+            .gen{
+
+                color: white;
+                font-size: 20px;
+                margin: auto 3em;
+            }
+   
+            #email-label{
+                color: white;
+                font-size: 20px;
+                margin: auto 3em;
+            }
+
+            .email{
+
+                font-size: 10px;
+                margin: auto 6em;
+                width: 75%;
+            }
+
+            #number-label{
+                color: white;
+                font-size: 20px;
+                margin: auto 3em;
+            }
+
+            #number{
+                margin: auto 4.5em;
+                width: 75%;
+           
+            }
+
+
+            #number-dropdown{
+
+                color: white;
+                font-size: 20px;
+                margin: auto 3em;
+
+            }
+        
+            #dropdown{
+                font-size: 10px;
+                margin: auto 6em;
+                width: 75%;
+            }
+
+
+            #submit{
+
+        position: relative;
+        left:45%;
+
+            }
+
+
+            p{
+                color: white;
+                font-size: 20px;
+                margin: auto 3em;
+
+            }
+            .checkbox{
+
+                font-size: 20px;
+                margin: auto 3em;
+
+            }
+
+            #comments{
+
+                font-size: 20px;
+                margin: auto 3em; 
+                width: 75%;  
+            }
+
+  
+@media (max-width:1200px){
+    #logo{
+      display:none;
+    }
+      }
+  
+
+  
+  
