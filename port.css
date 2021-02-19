@@ -1,0 +1,106 @@
+
+
+#logoA{
+    position: fixed;
+    width:3em;
+    margin-left:50em;
+}
+
+#oName{
+
+position: fixed;
+bottom: 15px;
+
+
+}
+
+
+#logoA#oNameP{
+
+    background-color: brown;
+    
+}
+
+
+
+#mainMenu{
+position: fixed;
+margin: auto 5rem;
+background-color: red;
+}
+
+
+
+#navbar{
+position: fixed;
+top: 15px;
+background-color: yellow;
+
+}
+
+
+.url{
+     text-decoration: none;
+    color: black;
+
+}
+h1{
+ margin:0; 
+ position: relative;
+ text-align: center;
+ font-size: 100px;
+}
+
+#welcome-section{
+
+margin-top:0;
+background-color: bisque;
+height: 100vh;
+width: auto;
+}
+
+
+#position{
+
+position: relative;
+top:30em;
+}
+
+#projects{
+
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.project-tile{
+
+    font-size: 30px;
+    margin:0;
+    width:10em;
+}
+
+
+.projectPic{
+
+position: relative;
+width: 80%;
+height: auto;
+
+
+}
+
+
+body{
+
+margin: 0;
+
+}
+
+@media (max-width: 600px){
+
+#welcome-section{
+
+    background-color: blue;
+}
+
+}
